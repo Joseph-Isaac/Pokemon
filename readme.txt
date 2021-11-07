@@ -1,7 +1,7 @@
 1. PRIMEIRO CONTATO COM O PROJETO.
-Algumas considerações antes de comentar minha experiência. Usei o emulador do Android Studio, não tenho MacBook para gerar um IPA,
-mas estou em processo de geração de um AAB para publicar nas lojas android (que em média demora 3 dias) e isso para o caso de vocês 
-quiserem ver o projeto rodando online, como tem nas especificações do desafio no github.
+Algumas considerações antes de comentar minha experiência. Usei o emulador do Android Studio. Não tenho MacBook para gerar um IPA,
+mas gerei um APK para quem quiser rodar em seu próprio celular android. Ele se encontra tanto no arquivo principal com o nome "app-release.apk" como 
+no caminho "./android/app/build/outputs/apk/release/app-release.apk"
 
 Quando li o projeto e vi que não poderia fazer em expo, tive que instalar uma versão mais recente do Node e do React-Native, pois a 
 empresa anterior que eu trabalhava usava versões antigas e não fizeram uma atualização até o momento em que fiquei lá. Isso  me fez 
